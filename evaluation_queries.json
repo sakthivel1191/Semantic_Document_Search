@@ -1,0 +1,103 @@
+
+[
+    {
+        "query": "What is the employee leave policy?",
+        "expected_source": "leave_policy.pdf",
+        "expected_page": 4
+    },
+    {
+        "query": "What are the employee attendance rules?",
+        "expected_source": "attendance_policy.pdf",
+        "expected_page": 2
+    },
+    {
+        "query": "What are the workplace safety guidelines?",
+        "expected_source": "safety_manual.pdf",
+        "expected_page": 5
+    },
+    {
+        "query": "What is the organization's annual report?",
+        "expected_source": "annual_report.pdf",
+        "expected_page": 3
+    },
+    {
+        "query": "What are the employee working hours?",
+        "expected_source": "employee_handbook.pdf",
+        "expected_page": 6
+    },
+    {
+        "query": "How does the company manage employee performance?",
+        "expected_source": "performance_policy.pdf",
+        "expected_page": 4
+    },
+    {
+        "query": "What is the company's data protection policy?",
+        "expected_source": "data_protection.pdf",
+        "expected_page": 3
+    },
+    {
+        "query": "What are the recruitment procedures?",
+        "expected_source": "recruitment_policy.pdf",
+        "expected_page": 2
+    },
+    {
+        "query": "What are the employee benefits?",
+        "expected_source": "benefits_policy.pdf",
+        "expected_page": 5
+    },
+    {
+        "query": "What are the workplace health guidelines?",
+        "expected_source": "health_manual.pdf",
+        "expected_page": 4
+    },
+    {
+        "query": "How does the organization handle complaints?",
+        "expected_source": "complaints_policy.pdf",
+        "expected_page": 3
+    },
+    {
+        "query": "What are the information security rules?",
+        "expected_source": "security_manual.pdf",
+        "expected_page": 7
+    },
+    {
+        "query": "What is the employee training procedure?",
+        "expected_source": "training_policy.pdf",
+        "expected_page": 2
+    },
+    {
+        "query": "What are the financial reporting requirements?",
+        "expected_source": "financial_report.pdf",
+        "expected_page": 5
+    },
+    {
+        "query": "What is the organization's environmental policy?",
+        "expected_source": "environment_policy.pdf",
+        "expected_page": 3
+    },
+    {
+        "query": "What are the rules for remote working?",
+        "expected_source": "remote_work_policy.pdf",
+        "expected_page": 4
+    },
+    {
+        "query": "How are employee expenses managed?",
+        "expected_source": "expense_policy.pdf",
+        "expected_page": 2
+    },
+    {
+        "query": "What are the company's customer service standards?",
+        "expected_source": "customer_service.pdf",
+        "expected_page": 6
+    },
+    {
+        "query": "What are the rules for document management?",
+        "expected_source": "document_management.pdf",
+        "expected_page": 3
+    },
+    {
+        "query": "What are the organization's quality standards?",
+        "expected_source": "quality_manual.pdf",
+        "expected_page": 5
+    }
+]
